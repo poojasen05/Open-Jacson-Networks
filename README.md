@@ -1,6 +1,6 @@
-                                                                                               NAME: POOJA.S
+NAME: POOJA.S
 
-                                                                                              REG NO: 212223040146
+REG NO: 212223040146
 
 
 # Series Queues with infinite capacity - Open Jackson Network
